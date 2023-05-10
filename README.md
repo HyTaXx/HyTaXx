@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @HyTaXx a 19 years old web development student #
+# 👋 Hi, I’m @HyTaXx a 20 years old web development student #
 
 - 👀 I’m interested in video games and front end developpement
 - 🔬I'm actually working on a online card games 🎲
