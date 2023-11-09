@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @HyTaXx a 20 years old web development student #
 
-- 👀 I’m interested in video games and front end developpement
-- 🔬I'm actually working on a online card games 🎲
+- 👀 I’m interested in video games , racing and web developpement
 - I'm qualified in :   
  
   [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,py)](https://skills.thijs.gg)
