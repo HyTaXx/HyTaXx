@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @HyTaXx a 21 years old web development student #
 
 - 👀 I’m interested in video games , racing and web developpement
-  
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,py)](https://skills.thijs.gg)
+
 ## Contacts
 - 📫 You can reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/armand-nobre-996057224/))
 &nbsp;, [Twitter](https://twitter.com/hytaxxxx) or at 📫 nobrearmand@gmail.com
